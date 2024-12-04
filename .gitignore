@@ -1,0 +1,12 @@
+.hugo_build.lock
+hugo_stats.json
+gh-pages-old.workingyaml
+*.pdf
+.env
+
+
+
+public/
+node_modules/
+resources/_gen
+pdf-output/
